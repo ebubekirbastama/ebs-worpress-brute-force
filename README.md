@@ -19,7 +19,7 @@
 
 ## 🖥️ Screenshots
 
-![screenshot](https://via.placeholder.com/800x400.png?text=GUI+Screenshot+Placeholder)
+![screenshot](https://raw.githubusercontent.com/ebubekirbastama/ebs-worpress-brute-force/refs/heads/main/syhmhfz.png)
 
 ---
 
